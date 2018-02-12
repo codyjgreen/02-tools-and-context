@@ -34,3 +34,4 @@ printGoodbye();
 ### Answer 2 
 This one wont run for two reasons the equal sign operator makes it so that on the first call it cant see past that because it only reads the const but cant go any further because of that so the second call would work.
 but i think there was a copy paste typo and the printGreeting should be printGoodbye.
+
